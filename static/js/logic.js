@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(myMap);
-  
+   
     d3.json(url).then(function (data) {
       function mapStyle(feature) {
         return {
@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
           weight: 0.5
         };
       }
-  
+   
       function mapColor(depth) {
         switch (true) {
           case depth > 90:
