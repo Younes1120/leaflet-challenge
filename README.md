@@ -28,7 +28,7 @@ In this project, you are required to:
 - Deploy the final project on a web hosting service (e.g., GitHub Pages)
 
 ## Getting Started
-
+![USGS](./Images/2-BasicMap.png)
 To run this project:
 
 https://younes1120.github.io/leaflet-challenge/
