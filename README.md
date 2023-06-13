@@ -1,4 +1,4 @@
-
+![USGS](./Images/1-Logo.png)
 
 # Leaflet Earthquake Map Challenge
 
@@ -36,5 +36,4 @@ https://younes1120.github.io/leaflet-challenge/
 ## Resource
 
 
-[Images/1-Logo.png](https://github.com/Younes1120/leaflet-challenge/blob/1f262a64ee820d82675e46f8c361e50a11b36ec8/Images/1-Logo.png)
 - [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
