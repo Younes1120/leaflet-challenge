@@ -31,10 +31,8 @@ To run this project:
 
 
 
-## Resources
+## Resource
 
 
 
-- [Leaflet Documentation](https://leafletjs.com/reference-1.7.1.html)
-- [D3.js Documentation](https://d3js.org/)
 - [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
